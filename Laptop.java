@@ -14,6 +14,6 @@ public class Laptop {
         System.out.println("Warna Laptop: " + Warna);
         System.out.println("Spesifikasi Laptop: " + Spesifikasi);
         System.out.println("RAM: " + RAM + "gb");
-        System.out.println("Harga Laptop: " + Harga);
+        System.out.println("Harga Laptop: Rp. " + Harga);
     }
 }
