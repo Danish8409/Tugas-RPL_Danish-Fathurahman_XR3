@@ -3,7 +3,7 @@ package Bu_Aulia;
 public class Laptop {
     String Merk;
     String Warna;
-    String Spesifikasi = "RTX 3050" + " Intel I5";
+    String Spesifikasi = "RTX 3050" + " Intel Core I5";
     String Type = "Gaming";
     int RAM = 16;
     int Harga = 1000000;
