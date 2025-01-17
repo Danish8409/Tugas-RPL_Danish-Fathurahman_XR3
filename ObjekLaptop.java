@@ -10,7 +10,7 @@ public class ObjekLaptop {
         L.Merk = input.nextLine();
         System.out.println("Untuk varian warna?");
         L.Warna = input.nextLine();
-        System.out.println("======== Rincian Spesifikasi ========");
+        System.out.println("======== Spesifikasi ========");
         L.tampilSpek();
 
     }
